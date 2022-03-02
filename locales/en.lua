@@ -1,5 +1,4 @@
 Locales['en'] = {
-  -- Everything
   ['press_e'] = 'Press ~INPUT_CONTEXT~ to open the menu',
   ['costs'] = ' Costs: ',
   ['currency'] = ' $',
