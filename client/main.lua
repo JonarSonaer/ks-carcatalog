@@ -120,7 +120,7 @@ function OpenShopMenu ()
   ESX.UI.Menu.Open(
     'default', GetCurrentResourceName(), 'vehicle_shop',
     {
-      title    = 'Bilbroschyr',
+      title    = 'Bilkatalog',
       align    = 'top-left',
       elements = elements,
     },
